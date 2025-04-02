@@ -1,0 +1,44 @@
+tile.iceandfire.dragonsteel_fire_block.name=Block of Fire Dragonsteel
+tile.iceandfire.dragonsteel_ice_block.name=Block of Ice Dragonsteel
+tile.iceandfire.dragonsteel_lightning_block.name=Block of Lightning Dragonsteel
+
+item.iceandfire.dragonsteel_fire_ingot.name=Fire Dragonsteel Ingot
+item.iceandfire.dragonsteel_fire_sword.name=Fire Dragonsteel Sword
+item.iceandfire.dragonsteel_fire_axe.name=Fire Dragonsteel Axe
+item.iceandfire.dragonsteel_fire_pickaxe.name=Fire Dragonsteel Pickaxe
+item.iceandfire.dragonsteel_fire_shovel.name=Fire Dragonsteel Shovel
+item.iceandfire.dragonsteel_fire_hoe.name=Fire Dragonsteel Hoe
+item.iceandfire.dragonsteel_fire_helmet.name=Fire Dragonsteel Helmet
+item.iceandfire.dragonsteel_fire_chestplate.name=Fire Dragonsteel Chestplate
+item.iceandfire.dragonsteel_fire_leggings.name=Fire Dragonsteel Leggings
+item.iceandfire.dragonsteel_fire_boots.name=Fire Dragonsteel Boots
+
+item.iceandfire.dragonsteel_ice_ingot.name=Ice Dragonsteel Ingot
+item.iceandfire.dragonsteel_ice_sword.name=Ice Dragonsteel Sword
+item.iceandfire.dragonsteel_ice_axe.name=Ice Dragonsteel Axe
+item.iceandfire.dragonsteel_ice_pickaxe.name=Ice Dragonsteel Pickaxe
+item.iceandfire.dragonsteel_ice_shovel.name=Ice Dragonsteel Shovel
+item.iceandfire.dragonsteel_ice_hoe.name=Ice Dragonsteel Hoe
+item.iceandfire.dragonsteel_ice_helmet.name=Ice Dragonsteel Helmet
+item.iceandfire.dragonsteel_ice_chestplate.name=Ice Dragonsteel Chestplate
+item.iceandfire.dragonsteel_ice_leggings.name=Ice Dragonsteel Leggings
+item.iceandfire.dragonsteel_ice_boots.name=Ice Dragonsteel Boots
+
+item.iceandfire.dragonsteel_lightning_ingot.name=Lightning Dragonsteel Ingot
+item.iceandfire.dragonsteel_lightning_sword.name=Lightning Dragonsteel Sword
+item.iceandfire.dragonbone_sword_lightning.name=Lightning Dragon Bone Sword
+item.iceandfire.dragonsteel_lightning_shovel.name=Lightning Dragonsteel Shovel
+item.iceandfire.dragonsteel_lightning_pickaxe.name=Lightning Dragonsteel Pickaxe
+item.iceandfire.dragonsteel_lightning_axe.name=Lightning Dragonsteel Axe
+item.iceandfire.dragonsteel_lightning_hoe.name=Lightning Dragonsteel Hoe
+item.iceandfire.dragonsteel_lightning_helmet.name=Lightning Dragonsteel Helmet
+item.iceandfire.dragonsteel_lightning_chestplate.name=Lightning Dragonsteel Chestplate
+item.iceandfire.dragonsteel_lightning_leggings.name=Lightning Dragonsteel Leggings
+item.iceandfire.dragonsteel_lightning_boots.name=Lightning Dragonsteel Boots
+
+fire_dragonsteel.hurt1=+13.5 damage against Ice Dragons
+fire_dragonsteel.hurt2=Ignites and knocks back targets
+ice_dragonsteel.hurt1=+13.5 damage against Fire Dragons
+ice_dragonsteel.hurt2=Slows and knocks back targets
+lightning_dragonsteel.hurt1=+6.75 damage against Fire Dragons and Ice Dragons
+lightning_dragonsteel.hurt2=Strikes targets with lightning

@@ -1,0 +1,43 @@
+tile.iceandfire.dragonsteel_fire_block.name=Bloque de Acero Dracónico Llamenate
+tile.iceandfire.dragonsteel_ice_block.name=Bloque de Acero Dracónico Helado
+tile.iceandfire.dragonsteel_lightning_block.name=Bloque de Acero Dracónico Electrica
+
+item.iceandfire.dragonsteel_fire_ingot.name=Lingote de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_sword.name=Espada de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_axe.name=Hacha de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_pickaxe.name=Pico de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_shovel.name=Pala de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_hoe.name=Azada de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_helmet.name=Casco de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_chestplate.name=Peto de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_leggings.name=Grebas de Acero Dracónico Llamenate
+item.iceandfire.dragonsteel_fire_boots.name=Botas de Acero Dracónico Llamenate
+
+item.iceandfire.dragonsteel_ice_ingot.name=Lingote de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_sword.name=Espada de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_axe.name=Hacha de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_pickaxe.name=Pico de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_shovel.name=Pala de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_hoe.name=Azada de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_helmet.name=Casco de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_chestplate.name=Peto de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_leggings.name=Grebas de Acero Dracónico Helado
+item.iceandfire.dragonsteel_ice_boots.name=Botas de Acero Dracónico Helado
+
+item.iceandfire.dragonsteel_lightning_ingot.name=Lingote de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_sword.name=Espada de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_axe.name=Hacha de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_pickaxe.name=Pico de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_shovel.name=Pala de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_hoe.name=Azada de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_helmet.name=Casco de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_chestplate.name=Peto de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_leggings.name=Grebas de Acero Dracónico Electrica
+item.iceandfire.dragonsteel_lightning_boots.name=Botas de Acero Dracónico Electrica
+
+fire_dragonsteel.hurt1=Daño contra Dragones de hielo: +13.5
+fire_dragonsteel.hurt2=Incendia y empuja a enemigos
+ice_dragonsteel.hurt1=Daño contra Dragones de fuego: +13.5
+ice_dragonsteel.hurt2=Ralentiza y empuja a enemigos
+lightning_dragonsteel.hurt1=Daño contra Dragones de fuego y hielo: +6.75
+lightning_dragonsteel.hurt2=§5Golpea a los enemigos con un rayo

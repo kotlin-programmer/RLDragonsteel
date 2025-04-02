@@ -1,0 +1,18 @@
+[
+{
+  "modid": "${mod_id}",
+  "name": "${mod_name}",
+  "description": "${mod_description}",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ${mod_author},
+  "credits": "${mod_credits}",
+  "logoFile": "assets/iceandfire/textures/logo.png",
+  "screenshots": [],
+  "requiredMods": [ "llibrary", "forge" ],
+  "dependencies": [ "llibrary", "forge" ],
+  "useDependencyInformation": true
+}
+]

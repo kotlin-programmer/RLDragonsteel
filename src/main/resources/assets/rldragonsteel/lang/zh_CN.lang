@@ -1,0 +1,44 @@
+tile.iceandfire.dragonsteel_fire_block.name=龙炎钢块
+tile.iceandfire.dragonsteel_ice_block.name=龙霜钢块
+tile.iceandfire.dragonsteel_lightning_block.name=龙霆钢块
+
+item.iceandfire.dragonsteel_fire_ingot.name=龙炎钢锭
+item.iceandfire.dragonsteel_fire_sword.name=龙炎钢剑
+item.iceandfire.dragonsteel_fire_axe.name=龙炎钢斧
+item.iceandfire.dragonsteel_fire_pickaxe.name=龙炎钢镐
+item.iceandfire.dragonsteel_fire_shovel.name=龙炎钢锹
+item.iceandfire.dragonsteel_fire_hoe.name=龙炎钢锄
+item.iceandfire.dragonsteel_fire_helmet.name=龙炎钢头盔
+item.iceandfire.dragonsteel_fire_chestplate.name=龙炎钢胸甲
+item.iceandfire.dragonsteel_fire_leggings.name=龙炎钢护腿
+item.iceandfire.dragonsteel_fire_boots.name=龙炎钢战靴
+
+item.iceandfire.dragonsteel_ice_ingot.name=龙霜钢锭
+item.iceandfire.dragonsteel_ice_sword.name=龙霜钢剑
+item.iceandfire.dragonsteel_ice_axe.name=龙霜钢斧
+item.iceandfire.dragonsteel_ice_pickaxe.name=龙霜钢镐
+item.iceandfire.dragonsteel_ice_shovel.name=龙霜钢锹
+item.iceandfire.dragonsteel_ice_hoe.name=龙霜钢锄
+item.iceandfire.dragonsteel_ice_helmet.name=龙霜钢头盔
+item.iceandfire.dragonsteel_ice_chestplate.name=龙霜钢胸甲
+item.iceandfire.dragonsteel_ice_leggings.name=龙霜钢护腿
+item.iceandfire.dragonsteel_ice_boots.name=龙霜钢战靴
+
+item.iceandfire.dragonsteel_lightning_ingot.name=龙霆钢锭
+item.iceandfire.dragonsteel_lightning_sword.name=龙霆钢剑
+item.iceandfire.dragonbone_sword_lightning.name=龙霆骨血剑
+item.iceandfire.dragonsteel_lightning_shovel.name=龙霆钢锹
+item.iceandfire.dragonsteel_lightning_pickaxe.name=龙霆钢镐
+item.iceandfire.dragonsteel_lightning_axe.name=龙霆钢斧
+item.iceandfire.dragonsteel_lightning_hoe.name=龙霆钢锄
+item.iceandfire.dragonsteel_lightning_helmet.name=龙霆钢头盔
+item.iceandfire.dragonsteel_lightning_chestplate.name=龙霆钢胸甲
+item.iceandfire.dragonsteel_lightning_leggings.name=龙霆钢护腿
+item.iceandfire.dragonsteel_lightning_boots.name=龙霆钢战靴
+
+fire_dragonsteel.hurt1=+13.5 冰龙克制
+fire_dragonsteel.hurt2=点燃并击退目标
+ice_dragonsteel.hurt1=+13.5 火龙克制
+ice_dragonsteel.hurt2=减速并击退目标
+lightning_dragonsteel.hurt1=+6.75 冰火龙克制
+lightning_dragonsteel.hurt2=电击目标

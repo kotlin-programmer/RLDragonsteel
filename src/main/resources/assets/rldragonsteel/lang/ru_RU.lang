@@ -1,0 +1,31 @@
+﻿tile.iceandfire.dragonsteel_fire_block.name=Блок огненной драконостали
+tile.iceandfire.dragonsteel_ice_block.name=Блок ледяной драконостали
+
+item.iceandfire.dragonsteel_fire_ingot.name=Слиток огненной драконостали
+item.iceandfire.dragonsteel_fire_sword.name=Меч из огненной драконостали
+item.iceandfire.dragonsteel_fire_axe.name=Топор из огненной драконостали
+item.iceandfire.dragonsteel_fire_pickaxe.name=Кирка из огненной драконостали
+item.iceandfire.dragonsteel_fire_shovel.name=Лопата из огненной драконостали
+item.iceandfire.dragonsteel_fire_hoe.name=Мотыга из огненной драконостали
+item.iceandfire.dragonsteel_fire_helmet.name=Шлем из огненной драконостали
+item.iceandfire.dragonsteel_fire_chestplate.name=Нагрудник из огненной драконостали
+item.iceandfire.dragonsteel_fire_leggings.name=Поножи из огненной драконостали
+item.iceandfire.dragonsteel_fire_boots.name=Ботинки из огненной драконостали
+
+item.iceandfire.dragonsteel_ice_ingot.name=Слиток ледяной драконостали
+item.iceandfire.dragonsteel_ice_sword.name=Меч из ледяной драконостали
+item.iceandfire.dragonsteel_ice_axe.name=Топор из ледяной драконостали
+item.iceandfire.dragonsteel_ice_pickaxe.name=Кирка из ледяной драконостали
+item.iceandfire.dragonsteel_ice_shovel.name=Лопата из ледяной драконостали
+item.iceandfire.dragonsteel_ice_hoe.name=Мотыга из ледяной драконостали
+item.iceandfire.dragonsteel_ice_helmet.name=Шлем из ледяной драконостали
+item.iceandfire.dragonsteel_ice_chestplate.name=Нагрудник из ледяной драконостали
+item.iceandfire.dragonsteel_ice_leggings.name=Поножи из ледяной драконостали
+item.iceandfire.dragonsteel_ice_boots.name=Ботинки из ледяной драконостали
+
+fire_dragonsteel.hurt1=+13.5 урон против ледяных драконов
+fire_dragonsteel.hurt2=Поджигает и отбрасывает цель
+ice_dragonsteel.hurt1=+13.5 урон против огненных драконов
+ice_dragonsteel.hurt2=Замедляет и отбрасывает цель
+lightning_dragonsteel.hurt1=+6.75 урон против огненных и ледяных драконов
+lightning_dragonsteel.hurt2=Поражает цели молнией
