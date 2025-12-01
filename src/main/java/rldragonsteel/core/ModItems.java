@@ -1,6 +1,7 @@
 package rldragonsteel.core;
 
 import com.github.alexthe666.iceandfire.IceAndFire;
+import com.github.alexthe666.iceandfire.item.ItemDragonArmor;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;
@@ -85,4 +86,10 @@ public class ModItems {
     public static Item dragonsteel_lightning_leggings = new ItemDragonsteelArmor(dragonsteel_lightning_armor, 2, EntityEquipmentSlot.LEGS, "dragonsteel_lightning_leggings", "iceandfire.dragonsteel_lightning_leggings");
     @GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonsteel_lightning_boots")
     public static Item dragonsteel_lightning_boots = new ItemDragonsteelArmor(dragonsteel_lightning_armor, 3, EntityEquipmentSlot.FEET, "dragonsteel_lightning_boots", "iceandfire.dragonsteel_lightning_boots");
+    @GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonarmor_dragonsteel_fire")
+    public static Item dragon_armor_dragonsteel_fire = new ItemDragonArmor(ItemDragonArmor.DragonArmorType.FIRE_DRAGONSTEEL, "dragonarmor_dragonsteel_fire");
+    @GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonarmor_dragonsteel_ice")
+    public static Item dragon_armor_dragonsteel_ice = new ItemDragonArmor(ItemDragonArmor.DragonArmorType.ICE_DRAGONSTEEL, "dragonarmor_dragonsteel_ice");
+    @GameRegistry.ObjectHolder(IceAndFire.MODID + ":dragonarmor_dragonsteel_lightning")
+    public static Item dragon_armor_dragonsteel_lightning = new ItemDragonArmor(ItemDragonArmor.DragonArmorType.LIGHTNING_DRAGONSTEEL, "dragonarmor_dragonsteel_lightning");
 }

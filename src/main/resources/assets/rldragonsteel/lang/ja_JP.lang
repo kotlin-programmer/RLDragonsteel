@@ -23,6 +23,10 @@ item.iceandfire.dragonsteel_ice_chestplate.name=氷竜鋼のチェストプレ�
 item.iceandfire.dragonsteel_ice_leggings.name=氷竜鋼のレギンス
 item.iceandfire.dragonsteel_ice_boots.name=氷竜鋼のブーツ
 
+item.iceandfire.dragonarmor_dragonsteel_fire.name=火竜鋼のドラゴン用装備
+item.iceandfire.dragonarmor_dragonsteel_ice.name=氷竜鋼のドラゴン用装備
+item.iceandfire.dragonarmor_dragonsteel_lightning.name=稲妻竜鋼のドラゴン用装備
+
 fire_dragonsteel.hurt1=アイスドラゴンに+13.5ダメージ
 fire_dragonsteel.hurt2=炎で飲みこみ、突き飛ばす
 ice_dragonsteel.hurt1=ファイアドラゴンに+13.5ダメージ

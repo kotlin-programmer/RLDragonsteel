@@ -2,8 +2,10 @@ package rldragonsteel;
 
 import com.github.alexthe666.iceandfire.item.ICustomRendered;
 import net.minecraft.block.Block;
+import net.minecraft.client.renderer.block.model.ModelBakery;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
+import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.fml.common.Mod;
@@ -30,6 +32,22 @@ public class ClientProxy extends CommonProxy {
 	@SubscribeEvent
 	@SideOnly(Side.CLIENT)
 	public static void registerModels(ModelRegistryEvent event) {
+		ModelBakery.registerItemVariants(ModItems.dragon_armor_dragonsteel_fire, new ResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_head"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_neck"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_body"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_tail"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_fire, 0, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_head", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_fire, 1, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_neck", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_fire, 2, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_body", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_fire, 3, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_fire_tail", "inventory"));
+		ModelBakery.registerItemVariants(ModItems.dragon_armor_dragonsteel_ice, new ResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_head"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_neck"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_body"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_tail"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_ice, 0, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_head", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_ice, 1, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_neck", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_ice, 2, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_body", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_ice, 3, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_ice_tail", "inventory"));
+		ModelBakery.registerItemVariants(ModItems.dragon_armor_dragonsteel_lightning, new ResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_head"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_neck"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_body"), new ResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_tail"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_lightning, 0, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_head", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_lightning, 1, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_neck", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_lightning, 2, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_body", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(ModItems.dragon_armor_dragonsteel_lightning, 3, new ModelResourceLocation("iceandfire:dragonarmor_dragonsteel_lightning_tail", "inventory"));
+
 		// Items
 		try {
 			for (Field f : ModItems.class.getDeclaredFields()) {

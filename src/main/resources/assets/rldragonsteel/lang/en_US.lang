@@ -36,6 +36,10 @@ item.iceandfire.dragonsteel_lightning_chestplate.name=Lightning Dragonsteel Ches
 item.iceandfire.dragonsteel_lightning_leggings.name=Lightning Dragonsteel Leggings
 item.iceandfire.dragonsteel_lightning_boots.name=Lightning Dragonsteel Boots
 
+item.iceandfire.dragonarmor_dragonsteel_fire.name=Fire Dragonsteel Dragon Armor
+item.iceandfire.dragonarmor_dragonsteel_ice.name=Ice Dragonsteel Dragon Armor
+item.iceandfire.dragonarmor_dragonsteel_lightning.name=Lightning Dragonsteel Dragon Armor
+
 fire_dragonsteel.hurt1=+13.5 damage against Ice Dragons
 fire_dragonsteel.hurt2=Ignites and knocks back targets
 ice_dragonsteel.hurt1=+13.5 damage against Fire Dragons

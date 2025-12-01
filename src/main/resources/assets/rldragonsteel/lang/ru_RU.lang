@@ -23,6 +23,10 @@ item.iceandfire.dragonsteel_ice_chestplate.name=Нагрудник из ледя
 item.iceandfire.dragonsteel_ice_leggings.name=Поножи из ледяной драконостали
 item.iceandfire.dragonsteel_ice_boots.name=Ботинки из ледяной драконостали
 
+item.iceandfire.dragonarmor_dragonsteel_fire.name=Драконья броня из огненной драконостали
+item.iceandfire.dragonarmor_dragonsteel_ice.name=Драконья броня из ледяной драконостали
+item.iceandfire.dragonarmor_dragonsteel_lightning.name=Драконья броня из молния драконостали
+
 fire_dragonsteel.hurt1=+13.5 урон против ледяных драконов
 fire_dragonsteel.hurt2=Поджигает и отбрасывает цель
 ice_dragonsteel.hurt1=+13.5 урон против огненных драконов

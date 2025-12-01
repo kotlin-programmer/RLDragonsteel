@@ -36,6 +36,10 @@ item.iceandfire.dragonsteel_lightning_chestplate.name=龙霆钢胸甲
 item.iceandfire.dragonsteel_lightning_leggings.name=龙霆钢护腿
 item.iceandfire.dragonsteel_lightning_boots.name=龙霆钢战靴
 
+item.iceandfire.dragonarmor_dragonsteel_fire.name=炎钢龙铠
+item.iceandfire.dragonarmor_dragonsteel_ice.name=霜钢龙铠
+item.iceandfire.dragonarmor_dragonsteel_lightning.name=闪电钢龙铠
+
 fire_dragonsteel.hurt1=+13.5 冰龙克制
 fire_dragonsteel.hurt2=点燃并击退目标
 ice_dragonsteel.hurt1=+13.5 火龙克制

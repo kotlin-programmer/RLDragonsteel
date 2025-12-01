@@ -35,6 +35,10 @@ item.iceandfire.dragonsteel_lightning_chestplate.name=Peto de Acero Dracónico E
 item.iceandfire.dragonsteel_lightning_leggings.name=Grebas de Acero Dracónico Electrica
 item.iceandfire.dragonsteel_lightning_boots.name=Botas de Acero Dracónico Electrica
 
+item.iceandfire.dragonarmor_dragonsteel_fire.name=Armadura de Dragón de Acero Dracónico Llamenate
+item.iceandfire.dragonarmor_dragonsteel_ice.name=Armadura de Dragón de Acero Dracónico Helado
+item.iceandfire.dragonarmor_dragonsteel_lightning.name=Armadura de Dragón de Acero Dracónico Electrica
+
 fire_dragonsteel.hurt1=Daño contra Dragones de hielo: +13.5
 fire_dragonsteel.hurt2=Incendia y empuja a enemigos
 ice_dragonsteel.hurt1=Daño contra Dragones de fuego: +13.5
